@@ -1,2 +1,2 @@
 # responsive-registration-form
-A responsive registration form with CSS Flex Box and Media Queries.
+A responsive registration form with css flex Box and media queries.
