@@ -42,6 +42,8 @@ body { background: #f2f2f2 }
                       cursor: pointer;
                     }
 
+input:focus { border-color: #001f3f; }
+
 @media screen and (max-width: 500px)
 {
     .sub-container { flex-direction: column; max-width: 300px; height: auto;
